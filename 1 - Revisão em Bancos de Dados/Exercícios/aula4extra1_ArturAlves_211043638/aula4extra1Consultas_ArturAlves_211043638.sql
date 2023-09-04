@@ -13,7 +13,7 @@
 -- Ultimas Alteracoes
 --   04/09/2023 => Consultando dados das tabelas ESTADO e CIDADE.
 --
--- ---------------------------------------------------------
+-- ----------------------------------------------------------
 
 USE aula4extra1;
 

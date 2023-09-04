@@ -13,7 +13,7 @@
 -- Ultimas Alteracoes
 --   04/09/2023 => Criação das tabelas e da base de dados.
 --
--- ---------------------------------------------------------
+-- ----------------------------------------------------------
 
 CREATE DATABASE IF NOT EXISTS aula4extra1;
 USE aula4extra1;
